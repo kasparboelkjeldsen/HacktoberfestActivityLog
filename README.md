@@ -58,6 +58,7 @@ Contributions:
 
 - 2024-10-11 - Søren Kottal - Released two new packages - [Schemex Exporter](https://marketplace.umbraco.com/package/umbraco.community.schemex.exporter) and [Schemex Importer](https://marketplace.umbraco.com/package/umbraco.community.schemex.importer)
 - 2024-10-12 - Søren Kottal - Released v5 🫨 of [Full Text Search](https://marketplace.umbraco.com/package/our.umbraco.fulltextsearch) for Umbraco 14 (and 15)
+- 2024-10-15 - Kaspar Boel Kjeldsen - Released v3 of [Knowit.Umbraco.InstantBlockPreview](https://marketplace.umbraco.com/package/knowit.umbraco.instantblockpreview) (link to nuget as Um - Supporting the new "Block Level Variance" in the generated previews.
 
 ## Sponsor a GitHub repo
 
